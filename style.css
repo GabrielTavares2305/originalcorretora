@@ -124,22 +124,16 @@ form{
     
 }
 
-#quemsomos{
-    font-family: "Nixie One", system-ui;
-    font-weight: bold;
-}
+
 
 #quemsomos p{
-    font-family: "Nixie One", system-ui;
+    
     color: black;
-    font-weight: lighter;
+   
     text-align: justify;
 }
 
-#quemsomos p{
-    font-family: "Nixie One", system-ui;
-    font-weight: bold;
-}
+
 #form input{
     margin-bottom: 10px;
     border-color: #0275D8;
